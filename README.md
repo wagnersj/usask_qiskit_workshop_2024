@@ -1,4 +1,4 @@
-# uSask/IBM Qiskit Workshop April 2024
+# uSask/IBM Qiskit Workshop October 2024
 
 ## Installing Qiskit
 
